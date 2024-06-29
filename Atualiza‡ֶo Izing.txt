@@ -1,0 +1,183 @@
+1.9.8.3
+
+- Typebot por canal (Typebot Version: 2.20.0)
+- Intergação com a API Oficial (Beta)
+
+
+----------------------------------------------
+
+1.9.8.4
+
+- Intergação com a API Oficial (Beta)
+- Selecionar contatos/grupos no disparo em massa
+- Cor do nome da fila no atendimento darkmode
+- Cor do login no darkmode
+- Endpoint para pegar tickets que estão no chabot (ShowTicketInformationChatBot - /showticketchatbot)
+- Digitando e delay do typebot e chatgpt
+- Filas inativas não são mais mostradas na transferência
+- Abrir o ticket na tela de avaliacoes/protocolo/notas
+- Ao deletar uma conexão, eles são atribuidos a próxima conexão disponível, permancendo no atendimento
+- Typebot, ChatGPT e DialogFlow por canal (interação corrigida) - Typebot Version: 2.20.0
+- Todos atendimentos sem canal, recebem nova atribuição se existir conexão ativa.
+
+----------------------------------------------
+
+1.9.8.5
+
+- Variáveis Typebot V2.20.0 (numero, nome, email, atendimento(ID do Ticket), status (Status do Ticket), ultimamensagem, canal, grupo, kanban )
+- VCard ajustado
+- Correções API oficial
+- Correção layouts do front
+- Correção do digitando nas integrações
+- Postman atualizado: ApiIzing.json
+- Endpoint pra trazer todos os atendimentos (showallticket)
+- Sticker para API não oficial
+
+----------------------------------------------
+
+1.9.8.6
+
+- Correção do fechamento automatico do ticket no front
+- Melhoria da lógica de números proibidos de interagir no sistema
+- Correção da atualização de campanha voltando para 8 hrs
+- Correção no filtro de carteira na campanha
+
+----------------------------------------------
+
+1.9.8.7
+
+- Sussuro adicionado a opção: Notas
+- Deletar mensagem no dispositivo
+- Reações as mensagens
+- Correção no filtro das filas no atendimento
+- Correção no envio de mensagens para números bloqueados na reconexão
+- Correção na posição do menu de ações da mensagem
+- Envio de templates texto para conexões WABA
+
+----------------------------------------------
+
+1.9.8.8
+
+- Ajuste nas metricas do dashboard
+- Guia para chatbots (ativar nas configurações)
+- Enviar avaliação automática no fechamento do ticket (por canal)
+- Lógica do Ttypebot, ChatGPT e Dialogflow refatorada
+- Novas variáveis
+	E-mail (se existir) - {{email}}
+	Telefone - {{phoneNumber}}
+	Kanban - {{kanban}}
+	Atendente - {{user}}
+	E-mail Atendente - {{userEmail}}
+
+
+----------------------------------------------
+
+1.9.8.9
+
+- Alteração no modelo dos cards no Kanban (redimensionamento, informações de etiqueta/carteira adicionados)
+- Correção chatbot
+- Correção envio de avaliação automática (Waba)
+- Correção áudios travados ou picotados
+
+----------------------------------------------
+
+1.9.9.0
+
+- OGG no chatbot
+- Opção para fixar as conexões no topo do atendimento ou deixar flutuando no roda-pé (configurações)
+- Opção para definir número máximo de envio da mensagem de ausência (configurações)
+- Opção para o chatbot transferir na primeira interação (novos fluxos criados)
+- Sockets ajustados
+- Opção de abrir o atendimento escolhendo Fila e Usuário
+- Condição para encerrar o atendimento no chatbot (novos fluxos)
+- Correção: interação do chatbot transferindo na primeira interação (novos fluxos)
+- Correção: interação do chatbot fora do horário de atendimento (novos fluxos)
+- Correção: filtros para admins
+
+----------------------------------------------
+
+1.9.9.1 09/04/204
+
+- Disparo em massa com variáveis
+- Criação de fluxo com a opção iniciar usando uma palavra gatilho (configuração)
+- Criação de fluxo com a opção de interligar a um segundo fluxo (interação)
+- Criação de fluxo com a opção de delay entre uma msg e outra (interação)
+- Criação de fluxo com a opção de definir etiquetas(interação)
+- Criação de fluxo com a opção de chamadas webhook get (interação)
+- Fechamento automático de ticket corrigidos
+- Ajuste ack envio de mensagens interna
+- Sincronição ajustada para trazer apenas contatos privados
+- Ajuste na saudação (Bom dia, boa tarde e boa noite)
+- Botão para bloquear o contato na tela de atendimento
+- Exportar participantes de grupos para planilha
+- Atualização automática da página em caso de inatividade dentro de 5 minutos
+- Tamanho de upload ajustado para 30MB
+- Novas extensões de arquivos suportadas (docx, doc, xlsx, xls, pptx, ppt, txt, json, zip, rar, psd)
+- Abrir ticket com status open, quando selecionado usuários ou fila
+- Correção ao resetar fluxo ChatBot nas configurações
+- Correção tempo limite do ChatBot para encerramento
+- Correção responder das Notas
+
+----------------------------------------------
+
+1.9.9.2 10/04/2024
+
+- Edição de mensagens de fora do Izing
+- Webhook concentrado nas configurações gerais
+- Definição da mensagem de tempo excedido na configuração do ChatBot
+- Correção bugs internos do Chatbot
+
+----------------------------------------------
+
+1.9.9.3 12/04/2024
+
+- Duplicação do ChatBot trazendo todas as configurações
+- Mensagens já existentes no banco de dados não são importadas na sincronização
+- Endpoint para setar Tag (/v1/api/external/:apiId/updatetag)
+- Ajuste nos serviços de autofechamento do ticket (configurações gerais e chatbot)
+- Correção no horário de atendimento
+- Correção interna chatbot
+
+----------------------------------------------
+
+1.9.9.4  16/04/2024
+
+- Correção sockets
+
+----------------------------------------------
+
+1.9.9.5  17/04/2024
+
+- Correção bugs internos da 1.9.9.4 (mensagens, tickets, grupos e versão mobile)
+- Extensao ppfx
+
+----------------------------------------------
+
+1.9.9.6 - 23/04/2024
+
+- Mensagem desculpe nao entendi sua resposta pode ser desativada mantendo essa opção vazia nas configurações do chabot
+- Tela com controle de agendamentos
+- Opção de enviar mensagens de fechamento personalizadas
+- Agendamento pode ser enviado para tickets já fechados (nesse caso um novo ticket é aberto com status de pendente)
+- Chatflows pendentes no banco são removido automaticamente no carregamento da pagina de ChatBots
+
+----------------------------------------------
+
+1.9.9.7 - 29/04/2024
+
+- Correção importação dos contatos (carteira e etiqueta)
+- Variáveis disponíveis na aba configurações
+- Opção para não enviar mensagem de ausencia no chatbot (deixar em branco)
+- API para envio de mensagens e mídias em grupos
+- Envio de SMS
+----------------------------------------------
+
+1.9.9.8 - 06/05/2024
+
+- Correção API de envio de mensagens para Grupos
+- Correção recebimento de áudio no Waba
+- Correção darkmode na tela de login e avisos na conexão
+- Adicionado o envio de stickers
+- Disparo de SMS em massa
+
+
