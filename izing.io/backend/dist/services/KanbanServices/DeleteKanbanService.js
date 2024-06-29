@@ -1,0 +1,159 @@
+'use strict';
+const _0x3474d2 = _0x10e7;
+(function (_0x12c550, _0x37a88d) {
+    const _0x731eb5 = _0x10e7, _0x934e7a = _0x12c550();
+    while (!![]) {
+        try {
+            const _0x77c436 = parseInt(_0x731eb5(0x16a)) / (0xe5f * 0x2 + -0x671 + -0x164c) * (parseInt(_0x731eb5(0x168)) / (0x1 * 0x1a97 + 0x42f + 0xf62 * -0x2)) + parseInt(_0x731eb5(0x170)) / (-0xbb4 + 0x20cd + -0xa8b * 0x2) + -parseInt(_0x731eb5(0x16b)) / (-0x40b + 0x1b74 + -0x1765) + parseInt(_0x731eb5(0x18a)) / (-0x807 + -0x1d8d + 0x2599) + parseInt(_0x731eb5(0x164)) / (-0x651 + 0x1 * -0x36d + -0xa * -0xfa) + parseInt(_0x731eb5(0x177)) / (0x289 * -0xd + 0x868 + 0x1894) * (-parseInt(_0x731eb5(0x17e)) / (-0x1bd + 0x540 + 0x3 * -0x129)) + -parseInt(_0x731eb5(0x184)) / (0x16 + -0x1b7a + 0x1 * 0x1b6d);
+            if (_0x77c436 === _0x37a88d)
+                break;
+            else
+                _0x934e7a['push'](_0x934e7a['shift']());
+        } catch (_0x5eb102) {
+            _0x934e7a['push'](_0x934e7a['shift']());
+        }
+    }
+}(_0x5e44, -0x1 * -0xd713f + -0x3885f + -0x28442));
+function _0x10e7(_0x1a0d30, _0x533c6d) {
+    const _0x4e2026 = _0x5e44();
+    return _0x10e7 = function (_0x4322ba, _0x96c5e4) {
+        _0x4322ba = _0x4322ba - (-0x77 * 0x12 + -0x153 * 0x1 + -0xbd * -0xf);
+        let _0x2424fe = _0x4e2026[_0x4322ba];
+        return _0x2424fe;
+    }, _0x10e7(_0x1a0d30, _0x533c6d);
+}
+var __awaiter = this && this[_0x3474d2(0x16e)] || function (_0x1b28dc, _0x57da1b, _0xdbf89f, _0x4d8519) {
+        const _0x27f12b = _0x3474d2, _0x391ea6 = {
+                'iNYjK': function (_0x2c53eb, _0x764585) {
+                    return _0x2c53eb(_0x764585);
+                },
+                'tymIf': function (_0x2cc3e2, _0x3c5451) {
+                    return _0x2cc3e2 instanceof _0x3c5451;
+                },
+                'JFRWe': function (_0x44d896, _0x50b8f0) {
+                    return _0x44d896(_0x50b8f0);
+                },
+                'vDacc': function (_0x183251, _0x22c374) {
+                    return _0x183251(_0x22c374);
+                },
+                'dUedA': function (_0x5d2315, _0x1f3368) {
+                    return _0x5d2315(_0x1f3368);
+                },
+                'xJNGl': _0x27f12b(0x165),
+                'MyDhq': function (_0x979190, _0x51c978) {
+                    return _0x979190(_0x51c978);
+                }
+            };
+        function _0x70cb63(_0x2ee569) {
+            const _0xaa4214 = _0x27f12b;
+            return _0x391ea6[_0xaa4214(0x16d)](_0x2ee569, _0xdbf89f) ? _0x2ee569 : new _0xdbf89f(function (_0x5c42a4) {
+                const _0x145b6d = _0xaa4214;
+                _0x391ea6[_0x145b6d(0x178)](_0x5c42a4, _0x2ee569);
+            });
+        }
+        return new (_0xdbf89f || (_0xdbf89f = Promise))(function (_0x5dcf3f, _0x278500) {
+            const _0x377e7f = _0x27f12b, _0x397f25 = {
+                    'tYwcU': function (_0x166ead, _0x31a3db) {
+                        const _0x3e3e0a = _0x10e7;
+                        return _0x391ea6[_0x3e3e0a(0x187)](_0x166ead, _0x31a3db);
+                    },
+                    'wQpmF': function (_0x2b81e5, _0x331c6f) {
+                        const _0x2e1259 = _0x10e7;
+                        return _0x391ea6[_0x2e1259(0x178)](_0x2b81e5, _0x331c6f);
+                    }
+                };
+            function _0x5cdb8b(_0x549786) {
+                const _0xb9efad = _0x10e7;
+                try {
+                    _0x391ea6[_0xb9efad(0x17b)](_0x2ca46c, _0x4d8519[_0xb9efad(0x17a)](_0x549786));
+                } catch (_0x3a9d6f) {
+                    _0x391ea6[_0xb9efad(0x183)](_0x278500, _0x3a9d6f);
+                }
+            }
+            function _0x2f5a37(_0x1a6412) {
+                const _0x26d929 = _0x10e7;
+                try {
+                    _0x391ea6[_0x26d929(0x163)](_0x2ca46c, _0x4d8519[_0x391ea6[_0x26d929(0x17f)]](_0x1a6412));
+                } catch (_0x5dca37) {
+                    _0x391ea6[_0x26d929(0x183)](_0x278500, _0x5dca37);
+                }
+            }
+            function _0x2ca46c(_0x1b1374) {
+                const _0xb098c1 = _0x10e7;
+                _0x1b1374[_0xb098c1(0x167)] ? _0x397f25[_0xb098c1(0x180)](_0x5dcf3f, _0x1b1374[_0xb098c1(0x169)]) : _0x397f25[_0xb098c1(0x185)](_0x70cb63, _0x1b1374[_0xb098c1(0x169)])[_0xb098c1(0x174)](_0x5cdb8b, _0x2f5a37);
+            }
+            _0x391ea6[_0x377e7f(0x183)](_0x2ca46c, (_0x4d8519 = _0x4d8519[_0x377e7f(0x182)](_0x1b28dc, _0x57da1b || []))[_0x377e7f(0x17a)]());
+        });
+    }, __importDefault = this && this[_0x3474d2(0x179) + _0x3474d2(0x175)] || function (_0x308103) {
+        const _0x3d11fc = _0x3474d2;
+        return _0x308103 && _0x308103[_0x3d11fc(0x188)] ? _0x308103 : { 'default': _0x308103 };
+    };
+const _0xbe4f43 = {};
+_0xbe4f43[_0x3474d2(0x169)] = !![], Object[_0x3474d2(0x16c) + _0x3474d2(0x162)](exports, _0x3474d2(0x188), _0xbe4f43);
+const AppError_1 = __importDefault(require(_0x3474d2(0x16f) + _0x3474d2(0x17d) + 'r')), Kanban_1 = __importDefault(require(_0x3474d2(0x181) + _0x3474d2(0x173))), DeleteKanbanConfigService = ({
+        kanbanId: _0x27d1a3,
+        tenantId: _0xf1a68a
+    }) => __awaiter(void (0x1d39 + -0x1a4d * 0x1 + -0x2ec), void (-0x19e8 + -0x1f6 * -0xe + 0x2c * -0x9), void (-0x364 + -0xca4 + 0x24 * 0x72), function* () {
+        const _0x265067 = _0x3474d2, _0x1f9002 = {};
+        _0x1f9002[_0x265067(0x17c)] = _0x265067(0x172) + _0x265067(0x18b) + _0x265067(0x189);
+        const _0x3c937a = _0x1f9002, _0x2f6f77 = {};
+        _0x2f6f77['id'] = _0x27d1a3, _0x2f6f77[_0x265067(0x18c)] = _0xf1a68a;
+        const _0x4e01bb = {};
+        _0x4e01bb[_0x265067(0x166)] = _0x2f6f77;
+        const _0x112561 = yield Kanban_1[_0x265067(0x176)][_0x265067(0x186)](_0x4e01bb);
+        if (!_0x112561)
+            throw new AppError_1[(_0x265067(0x176))](_0x3c937a[_0x265067(0x17c)], -0xd21 + -0xea7 + 0x1d5c);
+        yield _0x112561[_0x265067(0x171)]();
+    });
+function _0x5e44() {
+    const _0x145c45 = [
+        '_CONFIG_NO',
+        'tenantId',
+        'erty',
+        'dUedA',
+        '3804054ZGlRjw',
+        'throw',
+        'where',
+        'done',
+        '112cCAKTd',
+        'value',
+        '11668NplFAd',
+        '1934384VMmsET',
+        'defineProp',
+        'tymIf',
+        '__awaiter',
+        '../../erro',
+        '1928325VoXcMT',
+        'destroy',
+        'ERR_KANBAN',
+        'ls/Kanban',
+        'then',
+        'fault',
+        'default',
+        '189ogVGAd',
+        'iNYjK',
+        '__importDe',
+        'next',
+        'JFRWe',
+        'snWhq',
+        'rs/AppErro',
+        '146552gmCkhm',
+        'xJNGl',
+        'tYwcU',
+        '../../mode',
+        'apply',
+        'vDacc',
+        '12735783EInOzP',
+        'wQpmF',
+        'findOne',
+        'MyDhq',
+        '__esModule',
+        'T_FOUND',
+        '4738070scyZPM'
+    ];
+    _0x5e44 = function () {
+        return _0x145c45;
+    };
+    return _0x5e44();
+}
+exports[_0x3474d2(0x176)] = DeleteKanbanConfigService;
