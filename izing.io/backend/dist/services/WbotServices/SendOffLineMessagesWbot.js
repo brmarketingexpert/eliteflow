@@ -1,0 +1,276 @@
+'use strict';
+const _0x5cfa53 = _0x1801;
+function _0xd2ba() {
+    const _0x288e88 = [
+        '../../util',
+        'wMtvt',
+        'erty',
+        '../../mode',
+        'delete',
+        'messageId',
+        'Error\x20cria',
+        '18012870qjtUkm',
+        'mlkak',
+        'sAppMessag',
+        'sendAudioA',
+        'destroy',
+        'path',
+        'quotedMsg',
+        'whatsapp-w',
+        'iopiL',
+        'zGgxh',
+        'eb.js',
+        'error',
+        'OffLine:\x20',
+        'NE_MEDIA',
+        'iSQzt',
+        'RxaCX',
+        'Error\x20envi',
+        'cyFjE',
+        'ge\x20OffLine',
+        '__importDe',
+        '55AIcMQe',
+        'join',
+        '9lmJgrb',
+        'throw',
+        'body',
+        'agem\x20',
+        'ls/Message',
+        '.us',
+        'isGroup',
+        'all',
+        'fault',
+        'done',
+        'env',
+        'mediaType',
+        'public',
+        'FiZQS',
+        'findAll',
+        'PATH_OFFLI',
+        'jvuiu',
+        's/logger',
+        'updatedAt',
+        'hexNR',
+        'emit',
+        'where',
+        'include',
+        '199300ZmYwmI',
+        'value',
+        'info',
+        'qyPHN',
+        '3806845ywnZXH',
+        'xfTlm',
+        '__awaiter',
+        '../../libs',
+        'default',
+        'map',
+        'MessageMed',
+        'create',
+        '92366RQmkkx',
+        'ar\x20message',
+        'getIO',
+        'r\x20log\x20mens',
+        './SendWhat',
+        '1348347xEycwk',
+        'gXNWo',
+        'logger',
+        'chat',
+        'hWyEY',
+        'HjRDv',
+        'contact',
+        'sagesLog',
+        'ASC',
+        'ls/Ticket',
+        'fromFilePa',
+        '6255488NIeKIX',
+        'XHetM',
+        '7459848qGndRr',
+        'lXMVF',
+        'userId',
+        'ticketId',
+        'order',
+        'ACAMT',
+        '21jUnxSK',
+        '-appMessag',
+        'ticket',
+        'tenantId',
+        'ls/UserMes',
+        '__esModule',
+        'apply',
+        'sVoice',
+        'GIBUc',
+        'defineProp',
+        '/socket',
+        'OffLine',
+        'toString',
+        'sendMessag',
+        'WJGzU',
+        'lEGFk',
+        'Send\x20Messa',
+        'mediaName',
+        'then',
+        'next'
+    ];
+    _0xd2ba = function () {
+        return _0x288e88;
+    };
+    return _0xd2ba();
+}
+(function (_0x4d8251, _0x192003) {
+    const _0x45a314 = _0x1801, _0x345641 = _0x4d8251();
+    while (!![]) {
+        try {
+            const _0x52b227 = parseInt(_0x45a314(0x174)) / (0x7f1 * -0x3 + 0x298 + 0x153c) + -parseInt(_0x45a314(0x16f)) / (-0x2034 + 0x1388 + 0x43a * 0x3) * (-parseInt(_0x45a314(0x187)) / (0x1af4 + -0x4 * 0x8c3 + -0x1 * -0x81b)) + -parseInt(_0x45a314(0x1cf)) / (-0x1df * -0xa + -0xf34 + -0x37e) * (parseInt(_0x45a314(0x1b6)) / (0x24c3 * -0x1 + -0x803 + 0x1 * 0x2ccb)) + parseInt(_0x45a314(0x181)) / (0x163f + 0x364 * 0x9 + 0x17 * -0x24b) + -parseInt(_0x45a314(0x1d3)) / (0x1e25 + -0x9 * -0x237 + -0x320d) + -parseInt(_0x45a314(0x17f)) / (0x21d1 * -0x1 + 0x1ca5 + -0x3 * -0x1bc) * (-parseInt(_0x45a314(0x1b8)) / (-0x3d8 + 0x1f32 + -0x1b51)) + -parseInt(_0x45a314(0x1a2)) / (0x51 * 0x39 + 0x5 * 0x199 + -0x19fc);
+            if (_0x52b227 === _0x192003)
+                break;
+            else
+                _0x345641['push'](_0x345641['shift']());
+        } catch (_0x49fdbb) {
+            _0x345641['push'](_0x345641['shift']());
+        }
+    }
+}(_0xd2ba, 0x73de6 + 0x1557a + 0x3affb));
+var __awaiter = this && this[_0x5cfa53(0x1d5)] || function (_0x28e2f1, _0x38c8d4, _0x2aac53, _0x514256) {
+        const _0x3e1a51 = _0x5cfa53, _0x146729 = {
+                'RxaCX': function (_0x557c0c, _0x13bfc9) {
+                    return _0x557c0c(_0x13bfc9);
+                },
+                'zGgxh': function (_0x49d0c8, _0x440a6b) {
+                    return _0x49d0c8 instanceof _0x440a6b;
+                },
+                'WJGzU': function (_0x1b911c, _0x5bc666) {
+                    return _0x1b911c(_0x5bc666);
+                },
+                'qyPHN': _0x3e1a51(0x1b9),
+                'FiZQS': function (_0xe078d1, _0x5563e3) {
+                    return _0xe078d1(_0x5563e3);
+                },
+                'lXMVF': function (_0x4029ed, _0x157d8a) {
+                    return _0x4029ed(_0x157d8a);
+                },
+                'wMtvt': function (_0x11f42b, _0x17c9ac) {
+                    return _0x11f42b(_0x17c9ac);
+                },
+                'gXNWo': function (_0xc6747f, _0x487a35) {
+                    return _0xc6747f(_0x487a35);
+                },
+                'GIBUc': function (_0x13f55d, _0x25d5bf) {
+                    return _0x13f55d(_0x25d5bf);
+                },
+                'hWyEY': function (_0x5a27a3, _0x5a220a) {
+                    return _0x5a27a3(_0x5a220a);
+                }
+            };
+        function _0x56192d(_0x5e7911) {
+            const _0x5e9e60 = _0x3e1a51;
+            return _0x146729[_0x5e9e60(0x1ab)](_0x5e7911, _0x2aac53) ? _0x5e7911 : new _0x2aac53(function (_0x8e671d) {
+                const _0x50db5f = _0x5e9e60;
+                _0x146729[_0x50db5f(0x1b1)](_0x8e671d, _0x5e7911);
+            });
+        }
+        return new (_0x2aac53 || (_0x2aac53 = Promise))(function (_0x293311, _0x4ef1ee) {
+            const _0x50e737 = _0x3e1a51, _0x4478ab = {
+                    'ACAMT': function (_0x3d4de2, _0x1d3f99) {
+                        const _0x2f71e5 = _0x1801;
+                        return _0x146729[_0x2f71e5(0x175)](_0x3d4de2, _0x1d3f99);
+                    },
+                    'jvuiu': function (_0x234734, _0x2991d4) {
+                        const _0x3b1dcc = _0x1801;
+                        return _0x146729[_0x3b1dcc(0x18f)](_0x234734, _0x2991d4);
+                    }
+                };
+            function _0x58e0ca(_0x4fdb0f) {
+                const _0x10f96a = _0x1801;
+                try {
+                    _0x4478ab[_0x10f96a(0x186)](_0x50deec, _0x514256[_0x10f96a(0x19a)](_0x4fdb0f));
+                } catch (_0x357e98) {
+                    _0x4478ab[_0x10f96a(0x1c8)](_0x4ef1ee, _0x357e98);
+                }
+            }
+            function _0x2defa5(_0x4eeb4c) {
+                const _0x2f4174 = _0x1801;
+                try {
+                    _0x146729[_0x2f4174(0x195)](_0x50deec, _0x514256[_0x146729[_0x2f4174(0x1d2)]](_0x4eeb4c));
+                } catch (_0x1f899c) {
+                    _0x146729[_0x2f4174(0x1c5)](_0x4ef1ee, _0x1f899c);
+                }
+            }
+            function _0x50deec(_0x107953) {
+                const _0x47720c = _0x1801;
+                _0x107953[_0x47720c(0x1c1)] ? _0x146729[_0x47720c(0x182)](_0x293311, _0x107953[_0x47720c(0x1d0)]) : _0x146729[_0x47720c(0x19c)](_0x56192d, _0x107953[_0x47720c(0x1d0)])[_0x47720c(0x199)](_0x58e0ca, _0x2defa5);
+            }
+            _0x146729[_0x50e737(0x178)](_0x50deec, (_0x514256 = _0x514256[_0x50e737(0x18d)](_0x28e2f1, _0x38c8d4 || []))[_0x50e737(0x19a)]());
+        });
+    }, __importDefault = this && this[_0x5cfa53(0x1b5) + _0x5cfa53(0x1c0)] || function (_0x59abe6) {
+        const _0x51de1a = _0x5cfa53;
+        return _0x59abe6 && _0x59abe6[_0x51de1a(0x18c)] ? _0x59abe6 : { 'default': _0x59abe6 };
+    };
+const _0x2139b2 = {};
+_0x2139b2[_0x5cfa53(0x1d0)] = !![], Object[_0x5cfa53(0x190) + _0x5cfa53(0x19d)](exports, _0x5cfa53(0x18c), _0x2139b2);
+function _0x1801(_0x533469, _0x14beb7) {
+    const _0x4f0dd3 = _0xd2ba();
+    return _0x1801 = function (_0x58c873, _0x61fd09) {
+        _0x58c873 = _0x58c873 - (0xdcf + -0x183b + 0xbd8);
+        let _0x258c16 = _0x4f0dd3[_0x58c873];
+        return _0x258c16;
+    }, _0x1801(_0x533469, _0x14beb7);
+}
+const path_1 = require(_0x5cfa53(0x1a7)), whatsapp_web_js_1 = require(_0x5cfa53(0x1a9) + _0x5cfa53(0x1ac)), Message_1 = __importDefault(require(_0x5cfa53(0x19e) + _0x5cfa53(0x1bc))), MessageOffLine_1 = __importDefault(require(_0x5cfa53(0x19e) + _0x5cfa53(0x1bc) + _0x5cfa53(0x192))), Ticket_1 = __importDefault(require(_0x5cfa53(0x19e) + _0x5cfa53(0x17d))), logger_1 = require(_0x5cfa53(0x19b) + _0x5cfa53(0x1c9)), SendWhatsAppMessage_1 = __importDefault(require(_0x5cfa53(0x173) + _0x5cfa53(0x1a4) + 'e')), socket_1 = require(_0x5cfa53(0x1d6) + _0x5cfa53(0x191)), UserMessagesLog_1 = __importDefault(require(_0x5cfa53(0x19e) + _0x5cfa53(0x18b) + _0x5cfa53(0x17b))), SendOffLineMessagesWbot = (_0x396c4e, _0x2dd6f3) => __awaiter(void (0x1d5f + 0xfec + -0x2d4b), void (-0x3c5 + 0x2a * 0x87 + -0x3ad * 0x5), void (0x33 + 0x242 * -0x1 + -0x1 * -0x20f), function* () {
+        const _0x305fee = _0x5cfa53, _0x2dbf03 = {};
+        _0x2dbf03[_0x305fee(0x1cb)] = function (_0x12172a, _0x521dbf) {
+            return _0x12172a !== _0x521dbf;
+        }, _0x2dbf03[_0x305fee(0x1d4)] = _0x305fee(0x177), _0x2dbf03[_0x305fee(0x1aa)] = _0x305fee(0x1c4), _0x2dbf03[_0x305fee(0x1b0)] = _0x305fee(0x19f), _0x2dbf03[_0x305fee(0x196)] = _0x305fee(0x17a), _0x2dbf03[_0x305fee(0x1b3)] = _0x305fee(0x189), _0x2dbf03[_0x305fee(0x180)] = _0x305fee(0x1a8), _0x2dbf03[_0x305fee(0x179)] = _0x305fee(0x1ca), _0x2dbf03[_0x305fee(0x1a3)] = _0x305fee(0x17c);
+        const _0x4b909c = _0x2dbf03, _0x17978e = {};
+        _0x17978e[_0x305fee(0x18a)] = _0x2dd6f3;
+        const _0x1d8373 = {};
+        _0x1d8373[_0x305fee(0x1ce)] = [
+            _0x4b909c[_0x305fee(0x196)],
+            {
+                'model': Ticket_1[_0x305fee(0x1d7)],
+                'as': _0x4b909c[_0x305fee(0x1b3)],
+                'where': _0x17978e,
+                'include': [_0x4b909c[_0x305fee(0x196)]]
+            },
+            {
+                'model': Message_1[_0x305fee(0x1d7)],
+                'as': _0x4b909c[_0x305fee(0x180)],
+                'include': [_0x4b909c[_0x305fee(0x196)]]
+            }
+        ], _0x1d8373[_0x305fee(0x185)] = [[
+                _0x4b909c[_0x305fee(0x179)],
+                _0x4b909c[_0x305fee(0x1a3)]
+            ]];
+        const _0x69f183 = yield MessageOffLine_1[_0x305fee(0x1d7)][_0x305fee(0x1c6)](_0x1d8373), _0x8f903 = (-0x3d2 * -0x8 + -0x2 * -0x1b8 + -0x220 * 0x10, socket_1[_0x305fee(0x171)])();
+        yield Promise[_0x305fee(0x1bf)](_0x69f183[_0x305fee(0x16c)](_0xe44897 => __awaiter(void (-0x13f8 * -0x1 + -0x82 + -0x1376), void (0x1 * -0x1175 + -0x1 * -0x1d5b + -0xbe6), void (0x7 * -0x96 + -0xefa * 0x1 + 0x1314), function* () {
+            const _0x303dcb = _0x305fee;
+            logger_1[_0x303dcb(0x176)][_0x303dcb(0x1d1)](_0x303dcb(0x197) + _0x303dcb(0x1b4) + ':\x20' + _0xe44897);
+            try {
+                if (_0x4b909c[_0x303dcb(0x1cb)](_0xe44897[_0x303dcb(0x1c3)], _0x4b909c[_0x303dcb(0x1d4)]) && _0xe44897[_0x303dcb(0x198)]) {
+                    const _0x915bd2 = (-0x2f3 * 0x3 + 0xb03 + 0x1 * -0x22a, path_1[_0x303dcb(0x1b7)])(__dirname, '..', '..', '..', _0x4b909c[_0x303dcb(0x1aa)]), _0x337ae0 = (-0x21a + -0x317 + 0x531, path_1[_0x303dcb(0x1b7)])(process[_0x303dcb(0x1c2)][_0x303dcb(0x1c7) + _0x303dcb(0x1af)] || _0x915bd2, _0xe44897[_0x303dcb(0x198)]), _0x11db49 = whatsapp_web_js_1[_0x303dcb(0x16d) + 'ia'][_0x303dcb(0x17e) + 'th'](_0x337ae0), {number: _0x2dbf0a} = _0xe44897[_0x303dcb(0x189)][_0x303dcb(0x17a)], _0x57d4bc = {};
+                    _0x57d4bc[_0x303dcb(0x1a5) + _0x303dcb(0x18e)] = !![];
+                    const _0x4dbbe3 = yield _0x396c4e[_0x303dcb(0x194) + 'e'](_0x2dbf0a + '@' + (_0xe44897[_0x303dcb(0x189)][_0x303dcb(0x1be)] ? 'g' : 'c') + _0x303dcb(0x1bd), _0x11db49, _0x57d4bc);
+                    try {
+                        if (_0xe44897[_0x303dcb(0x183)]) {
+                            const _0x235dc5 = {};
+                            _0x235dc5[_0x303dcb(0x1a0)] = _0x4dbbe3['id']['id'], _0x235dc5[_0x303dcb(0x183)] = _0xe44897[_0x303dcb(0x183)], _0x235dc5[_0x303dcb(0x184)] = _0xe44897[_0x303dcb(0x184)], yield UserMessagesLog_1[_0x303dcb(0x1d7)][_0x303dcb(0x16e)](_0x235dc5);
+                        }
+                    } catch (_0x41e739) {
+                        logger_1[_0x303dcb(0x176)][_0x303dcb(0x1ad)](_0x303dcb(0x1a1) + _0x303dcb(0x172) + _0x303dcb(0x1bb) + _0x41e739);
+                    }
+                } else {
+                    const _0x6f1bfd = {};
+                    _0x6f1bfd[_0x303dcb(0x1ba)] = _0xe44897[_0x303dcb(0x1ba)], _0x6f1bfd[_0x303dcb(0x189)] = _0xe44897[_0x303dcb(0x189)], _0x6f1bfd[_0x303dcb(0x1a8)] = _0xe44897[_0x303dcb(0x1a8)], _0x6f1bfd[_0x303dcb(0x183)] = _0xe44897[_0x303dcb(0x183)], yield (0x14 * 0xf5 + 0x14 * 0x1c1 + -0x3638, SendWhatsAppMessage_1[_0x303dcb(0x1d7)])(_0x6f1bfd);
+                }
+                const _0x3d54d1 = {};
+                _0x3d54d1['id'] = _0xe44897['id'];
+                const _0x4bd150 = {};
+                _0x4bd150[_0x303dcb(0x1cd)] = _0x3d54d1, yield MessageOffLine_1[_0x303dcb(0x1d7)][_0x303dcb(0x1a6)](_0x4bd150), _0x8f903['to'](_0x2dd6f3 + '-' + _0xe44897[_0x303dcb(0x184)][_0x303dcb(0x193)]())[_0x303dcb(0x1cc)](_0x2dd6f3 + (_0x303dcb(0x188) + 'e'), {
+                    'action': _0x4b909c[_0x303dcb(0x1b0)],
+                    'message': _0xe44897
+                });
+            } catch (_0x13059d) {
+                logger_1[_0x303dcb(0x176)][_0x303dcb(0x1ad)](_0x303dcb(0x1b2) + _0x303dcb(0x170) + _0x303dcb(0x1ae) + _0x13059d);
+            }
+        })));
+    });
+exports[_0x5cfa53(0x1d7)] = SendOffLineMessagesWbot;
